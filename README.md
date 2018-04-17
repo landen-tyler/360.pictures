@@ -1,5 +1,5 @@
 # 360.pictures
-360 pictures of school
+360 picture of school
 
 ### 360
 
